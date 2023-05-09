@@ -42,7 +42,4 @@
         android:id="@+id/configurationFragment"
         android:name="com.example.senderos4.Fragment.ConfigurationFragment"
         android:label="ConfigurationFragment" />
-    <action
-        android:id="@+id/action_global_configurationFragment"
-        app:destination="@id/configurationFragment" />
 </navigation>
